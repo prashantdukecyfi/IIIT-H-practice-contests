@@ -1,5 +1,7 @@
 /*
 
+Code by - Devesh Jha, IIIT-H MTech(20-22)
+
 Little Lilly is on a mission to build an empire with cubes.
 She wants to paint each visible side of an individual block of cube with a unique colour.
 First she picks a base B with length l and width w to start building on it.
